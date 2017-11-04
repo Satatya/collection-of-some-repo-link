@@ -1,2 +1,2 @@
 # collection-of-some-repo-link
-Here is collection of some repo links
+Here I will be collecting best resources ....
